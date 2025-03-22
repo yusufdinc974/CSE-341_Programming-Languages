@@ -7,7 +7,7 @@ This repository contains **four assignments** covering **Common Lisp, Flex, Yacc
 ---
 
 ## 📌 **Assignments**
-### 🏆 **[Assignment 1: C-to-Lisp Code Converter](Assignment1/README.md)**
+### 🏆 **[Assignment 1: C-to-Lisp Code Converter](Homework1/README.md)**
 - **Topics:** Common Lisp, Recursion, Functional Programming  
 - **Features:**  
   ✅ Reads **C code** and **converts it into Lisp syntax**  
